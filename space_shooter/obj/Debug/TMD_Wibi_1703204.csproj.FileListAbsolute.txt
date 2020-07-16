@@ -1,0 +1,32 @@
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\bin\Debug\TMD_Wibi_1703204.exe.config
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\bin\Debug\TMD_Wibi_1703204.exe
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\bin\Debug\TMD_Wibi_1703204.pdb
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.Game.resources
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.Properties.Resources.resources
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csproj.GenerateResource.cache
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csproj.CoreCompileInputs.cache
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.exe
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.pdb
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csprojAssemblyReference.cache
+K:\semester4\pbo\teemde\TMD_Wibi_1703204\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.MainForm.resources
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\TMD_Wibi_1703204.exe.config
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\TMD_Wibi_1703204.exe
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\TMD_Wibi_1703204.pdb
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csprojAssemblyReference.cache
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.Game.resources
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.MainForm.resources
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.Properties.Resources.resources
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csproj.GenerateResource.cache
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csproj.CoreCompileInputs.cache
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.exe
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.pdb
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\BouncyCastle.Crypto.dll
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\Dapper.dll
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\Google.Protobuf.dll
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\MySql.Data.dll
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\Dapper.xml
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\Google.Protobuf.xml
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\bin\Debug\MySql.Data.xml
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csproj.CopyComplete
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\Interop.WMPLib.dll
+K:\semester4\pbo\teemde\TMD_Wibi_1703204 cobaMVC\TMD_Wibi_1703204\obj\Debug\TMD_Wibi_1703204.csproj.ResolveComReference.cache
